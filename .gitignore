@@ -1,0 +1,17 @@
+a.out
+*~
+\#*\#
+*.o
+libmy.a
+vgcore.*
+test.c
+*.gcda
+*.gcno
+.history
+my_rpg
+.vscode/
+.history/
+.gdb_history
+peda-session-my_rpg.txt
+proto
+save.txt
